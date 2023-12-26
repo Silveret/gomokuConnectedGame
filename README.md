@@ -7,7 +7,7 @@ Connecting game
 有聊天功能
 
 使用技術：
-C# 、socket功能 及電腦網路知識
+C# 、socket
 
 使用須知：
 在監聽過程函式while那個如果沒有東西會監聽到當機，須謹慎使用
